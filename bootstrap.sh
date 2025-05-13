@@ -10,4 +10,4 @@ kubectl apply -f secrets.yml
 
 kubectl apply -f deployment.yml
 
-kubectl rollout status deployment/todo-app
+kubectl rollout status deployment/todoapp
